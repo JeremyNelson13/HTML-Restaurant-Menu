@@ -59,7 +59,7 @@ nav a:hover {
 }
 
 #banner img {
-    width: 60%;
+    width: auto;
     height: auto;
 }
 
@@ -83,4 +83,9 @@ td,
 th {
     border: 1px solid black;
     padding: 5px;
+}
+footer {
+    width: 100%;
+    padding: 20px;
+    background-color: green;
 }
